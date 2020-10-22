@@ -8,4 +8,10 @@ RESTful Web Services Project Bundle
 
 Spring Cloud Project Bundle
 
-Alternatively kindly visit https://github.com/WebDevLearner to explore individual projects.
+Alternatively you could see the individual projects using the following links:
+
+https://github.com/WebDevLearner/REST-quick-start
+
+https://github.com/WebDevLearner/RESTful-Web-Services-Project-Bundle
+
+https://github.com/WebDevLearner/SpringCloudProject-Bundle
